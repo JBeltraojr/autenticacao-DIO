@@ -2,4 +2,6 @@
 
 # Repósitorio das aula de GIT e GITHUB
 
-# 1. teste de autenticação com Token
+# 1. teste de autenticação com login e senha
+
+# 2. teste de autenticação com tokem
